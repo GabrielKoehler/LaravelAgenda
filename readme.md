@@ -1,6 +1,6 @@
 <br><Center>Curso Laravel - Aplicação Agenda</br>
-<br>Minicurso de Laravel<\br>
-<br>Professor: Douglas<\center><\br>
+<br>Minicurso de Laravel
+<br>Professor: Douglas
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
